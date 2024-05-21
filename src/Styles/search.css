@@ -1,0 +1,9 @@
+.Search{
+    display: flex;
+    justify-content: center;
+    padding: 40px 0px;
+}
+.Search input{
+    width: 40%;
+    height: 32px;
+}
